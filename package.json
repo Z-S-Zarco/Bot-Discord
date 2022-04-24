@@ -1,10 +1,10 @@
 {
   "name": "music-bot-tutorial",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node.index.js"
   },
   "keywords": [],
   "author": "",
@@ -19,5 +19,15 @@
     "dotenv": "^16.0.0",
     "ffmpeg-static": "^4.4.1",
     "git": "^0.1.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Z-S-Zarco/Bot-Discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Z-S-Zarco/Bot-Discord/issues"
+  },
+  "homepage": "https://github.com/Z-S-Zarco/Bot-Discord#readme",
+  "description": ""
 }
